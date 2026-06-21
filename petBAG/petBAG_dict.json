@@ -1,0 +1,39 @@
+{
+  "9788264416": {
+    "nora": {
+      "ownerFirst": "nick",
+      "ownerLast": "shaner",
+      "ownerPhone": 9788264416,
+      "ownerEmail": "nick@email.com",
+      "name": "nora",
+      "weight": 80.0,
+      "age": 8,
+      "status": "Active",
+      "breed": "daughter1"
+    },
+    "elsie": {
+      "ownerFirst": "nick",
+      "ownerLast": "shaner",
+      "ownerPhone": 9788264416,
+      "ownerEmail": "nick@email.com",
+      "name": "elsie",
+      "weight": 35.0,
+      "age": 4,
+      "status": "Active",
+      "breed": "daughter2"
+    }
+  },
+  "9788264415": {
+    "shamus": {
+      "ownerFirst": "nick",
+      "ownerLast": "shaner",
+      "ownerPhone": 9788264415,
+      "ownerEmail": "nick@email.com",
+      "name": "shamus",
+      "weight": 30.0,
+      "age": 4,
+      "status": "Active",
+      "breed": "sheltie"
+    }
+  }
+}
